@@ -1,0 +1,6 @@
+PDF_NAME = "pdf_title"
+FIGURE_NAME = "figure name"
+X_AXIS = "x-axis label"
+Y_AXIS = "y-axis label"
+LEGEND = "legend"
+DATA = "data points"
